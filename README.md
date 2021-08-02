@@ -1,4 +1,6 @@
-<p align="center"><img src="" align="center" width="350"></p>
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/42104907/127908818-370cbd7e-749d-47d2-8fff-a39e5a2903c3.mp4" style="width:300px">
+ </p>
 <h2 align="center">Notion Calendar Sync</h2>
 <p align="center"><b>Notion <> Google Calendar two-way sync</b></p>
 
